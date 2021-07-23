@@ -7,6 +7,8 @@ sites:
     url: http://crl.thalesgroup.com
   - name: Identity Provider
     url: https://sso-idp.thalesgroup.com
+    expectedStatusCodes:
+      - 404
   - name: Single-Sign One
     url: https://websso.online.thalesgroup.com/login/websso_login_unique.pl
   - name: CRL HTTP Port
