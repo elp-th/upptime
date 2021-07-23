@@ -33,7 +33,7 @@ status-website:
   introMessage: Monitor some public URLs
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
