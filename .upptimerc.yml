@@ -5,10 +5,17 @@ repo: upptime # The name of this repository
 sites:
   - name: Thales CRL
     url: http://crl.thalesgroup.com
-  - name: Thales SSO
+  - name: Thales Identity Provider
     url: https://sso-idp.thalesgroup.com
-  - name: Thales SSO static page
-    url: https://websso.online.thalesgroup.com/error/AccessDenied.html
+  - name: Thales SSO
+    url: https://websso.online.thalesgroup.com/login/websso_login_unique.pl
+  - name: SSO HTTPS Port
+    check: "tcp-ping"
+    url: 192.54.144.12
+  - name: IdP HTTPS Port
+    check: "tcp-ping"
+    url: 192.54.144.69
+    port: 443
   - name: DDM
     url: https://ddm.online.thalesgroup.com
 
