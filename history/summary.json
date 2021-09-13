@@ -4,10 +4,10 @@
     "url": "http://crl.thalesgroup.com",
     "icon": "https://favicons.githubusercontent.com/crl.thalesgroup.com",
     "slug": "crl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 418,
@@ -15,7 +15,9 @@
     "timeWeek": 492,
     "timeMonth": 451,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-13": 1
+    }
   },
   {
     "name": "Identity Provider",
