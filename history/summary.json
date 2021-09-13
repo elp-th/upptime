@@ -4,19 +4,19 @@
     "url": "http://crl.thalesgroup.com",
     "icon": "https://favicons.githubusercontent.com/crl.thalesgroup.com",
     "slug": "crl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 514,
-    "timeWeek": 492,
-    "timeMonth": 451,
-    "timeYear": 418,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 579,
+    "timeDay": 4960,
+    "timeWeek": 1606,
+    "timeMonth": 731,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2021-09-13": 1
+      "2021-09-13": 17
     }
   },
   {
