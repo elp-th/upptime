@@ -45,19 +45,19 @@
     "url": "https://websso.online.thalesgroup.com/login/websso_login_unique.pl",
     "icon": "https://favicons.githubusercontent.com/websso.online.thalesgroup.com",
     "slug": "single-sign-one",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "92.36%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.92%",
-    "time": 666,
-    "timeDay": 2251,
-    "timeWeek": 1080,
-    "timeMonth": 740,
-    "timeYear": 666,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "89.91%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.89%",
+    "time": 702,
+    "timeDay": 2927,
+    "timeWeek": 1436,
+    "timeMonth": 851,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2021-10-26": 110
+      "2021-10-26": 145
     }
   },
   {
