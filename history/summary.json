@@ -45,9 +45,9 @@
     "url": "https://websso.online.thalesgroup.com/login/websso_login_unique.pl",
     "icon": "https://favicons.githubusercontent.com/websso.online.thalesgroup.com",
     "slug": "single-sign-one",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "82.62%",
+    "uptimeDay": "82.61%",
     "uptimeWeek": "97.52%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.82%",
@@ -57,6 +57,7 @@
     "timeMonth": 1044,
     "timeYear": 771,
     "dailyMinutesDown": {
+      "2021-10-27": 0,
       "2021-10-26": 249
     }
   },
