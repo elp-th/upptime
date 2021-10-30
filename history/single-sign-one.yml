@@ -1,7 +1,7 @@
 url: https://websso.online.thalesgroup.com/login/websso_login_unique.pl
-status: down
-code: 500
-responseTime: 694
-lastUpdated: 2021-10-30T09:08:50.993Z
+status: up
+code: 200
+responseTime: 387
+lastUpdated: 2021-10-30T09:24:49.246Z
 startTime: Fri Jul 23 2021 10:19:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
