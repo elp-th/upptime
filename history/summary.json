@@ -24,9 +24,9 @@
     "url": "https://sso-idp.thalesgroup.com",
     "icon": "https://favicons.githubusercontent.com/sso-idp.thalesgroup.com",
     "slug": "identity-provider",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "82.73%",
+    "uptimeDay": "82.69%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.54%",
@@ -36,7 +36,7 @@
     "timeMonth": 1265,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2021-11-06": 249,
+      "2021-11-06": 250,
       "2021-10-30": 37,
       "2021-07-28": 19,
       "2021-07-23": 405
@@ -49,9 +49,9 @@
     "slug": "single-sign-one",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "85.69%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "97.94%",
+    "uptimeDay": "85.12%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "97.92%",
     "uptimeYear": "99.41%",
     "time": 1014,
     "timeDay": 4717,
@@ -59,7 +59,7 @@
     "timeMonth": 1630,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2021-11-06": 206,
+      "2021-11-06": 214,
       "2021-10-30": 16,
       "2021-10-27": 429,
       "2021-10-26": 249
