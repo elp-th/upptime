@@ -48,7 +48,7 @@
     "url": "https://websso.online.thalesgroup.com/login/websso_login_unique.pl",
     "icon": "https://favicons.githubusercontent.com/websso.online.thalesgroup.com",
     "slug": "single-sign-one",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
     "uptimeDay": "58.72%",
     "uptimeWeek": "94.10%",
