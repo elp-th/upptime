@@ -4,18 +4,19 @@
     "url": "http://crl.thalesgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/crl.thalesgroup.com.ico",
     "slug": "crl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 471,
+    "time": 472,
     "timeDay": 380,
     "timeWeek": 358,
     "timeMonth": 379,
     "timeYear": 490,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-09-12": 83
     }
   },
