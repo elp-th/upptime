@@ -54,9 +54,9 @@
     "slug": "single-sign-one",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 675,
     "timeDay": 608,
@@ -64,7 +64,7 @@
     "timeMonth": 603,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2023-02-14": 1,
+      "2023-02-14": 9,
       "2023-01-25": 36,
       "2022-10-17": 68,
       "2022-10-15": 19,
@@ -118,9 +118,9 @@
     "url": "192.54.144.69",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id-p-https-port",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -130,6 +130,7 @@
     "timeMonth": 106,
     "timeYear": 113,
     "dailyMinutesDown": {
+      "2023-02-14": 0,
       "2023-01-25": 32
     }
   }
