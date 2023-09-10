@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 375,
-    "timeWeek": 435,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "time": 412,
+    "timeDay": 372,
+    "timeWeek": 407,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso-idp.thalesgroup.com.ico",
     "slug": "identity-provider",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.69%",
     "time": 912,
-    "timeDay": 604,
-    "timeWeek": 777,
-    "timeMonth": 728,
-    "timeYear": 827,
+    "timeDay": 672,
+    "timeWeek": 763,
+    "timeMonth": 725,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2023-08-17": 30,
       "2023-07-29": 360,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 537,
-    "timeWeek": 737,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "time": 648,
+    "timeDay": 616,
+    "timeWeek": 713,
+    "timeMonth": 648,
+    "timeYear": 648,
     "dailyMinutesDown": {}
   },
   {
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 628,
-    "timeWeek": 683,
-    "timeMonth": 617,
-    "timeYear": 617,
+    "time": 616,
+    "timeDay": 593,
+    "timeWeek": 656,
+    "timeMonth": 616,
+    "timeYear": 616,
     "dailyMinutesDown": {}
   },
   {
@@ -95,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 86,
-    "timeWeek": 123,
+    "timeDay": 89,
+    "timeWeek": 114,
     "timeMonth": 115,
     "timeYear": 109,
     "dailyMinutesDown": {
@@ -117,9 +117,9 @@
     "uptimeYear": "99.99%",
     "time": 111,
     "timeDay": 86,
-    "timeWeek": 123,
+    "timeWeek": 114,
     "timeMonth": 115,
-    "timeYear": 109,
+    "timeYear": 108,
     "dailyMinutesDown": {
       "2023-01-25": 33
     }
@@ -137,8 +137,8 @@
     "uptimeYear": "99.99%",
     "time": 111,
     "timeDay": 86,
-    "timeWeek": 122,
-    "timeMonth": 114,
+    "timeWeek": 113,
+    "timeMonth": 115,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2023-01-25": 32
@@ -155,11 +155,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 86,
-    "timeWeek": 122,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "time": 112,
+    "timeDay": 87,
+    "timeWeek": 113,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   }
 ]
