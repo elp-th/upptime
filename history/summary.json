@@ -70,19 +70,19 @@
     "url": "https://login.sso.thalesgroup.com/adfs/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/login.sso.thalesgroup.com.ico",
     "slug": "adfs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 686,
-    "timeWeek": 641,
-    "timeMonth": 633,
-    "timeYear": 631,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 630,
+    "timeDay": 641,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2023-10-14": 0
+      "2023-10-14": 6
     }
   },
   {
