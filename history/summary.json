@@ -4,19 +4,19 @@
     "url": "http://crl.pki.thalesgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/crl.pki.thalesgroup.com.ico",
     "slug": "crl-v4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 477,
-    "timeWeek": 409,
-    "timeMonth": 407,
-    "timeYear": 410,
+    "time": 411,
+    "timeDay": 517,
+    "timeWeek": 427,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-11-30": 0
+      "2023-11-30": 6
     }
   },
   {
