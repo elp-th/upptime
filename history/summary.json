@@ -4,9 +4,9 @@
     "url": "http://crl.pki.thalesgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/crl.pki.thalesgroup.com.ico",
     "slug": "crl-v4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 409,
     "timeMonth": 407,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-30": 0
+    }
   },
   {
     "name": "Identity Provider",
@@ -31,7 +33,7 @@
     "time": 800,
     "timeDay": 861,
     "timeWeek": 722,
-    "timeMonth": 644,
+    "timeMonth": 642,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2023-08-17": 30,
