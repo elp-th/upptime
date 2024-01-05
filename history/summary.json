@@ -22,13 +22,13 @@
     "url": "https://sso-idp.thalesgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/sso-idp.thalesgroup.com.ico",
     "slug": "identity-provider",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "98.94%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.72%",
-    "time": 787,
+    "time": 786,
     "timeDay": 574,
     "timeWeek": 690,
     "timeMonth": 642,
@@ -50,9 +50,9 @@
     "url": "https://websso.online.thalesgroup.com/login/websso_login_unique.pl",
     "icon": "https://icons.duckduckgo.com/ip3/websso.online.thalesgroup.com.ico",
     "slug": "single-sign-on",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +61,9 @@
     "timeWeek": 599,
     "timeMonth": 622,
     "timeYear": 615,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   },
   {
     "name": "ADFS",
