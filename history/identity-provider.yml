@@ -1,7 +1,7 @@
 url: https://sso-idp.thalesgroup.com
-status: down
-code: 502
-responseTime: 13161
-lastUpdated: 2024-03-10T20:34:51.693Z
+status: up
+code: 404
+responseTime: 547
+lastUpdated: 2024-03-10T20:46:09.773Z
 startTime: 2021-07-23T10:19:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
