@@ -76,9 +76,9 @@
     "url": "https://login.sso.thalesgroup.com/adfs/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/login.sso.thalesgroup.com.ico",
     "slug": "adfs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 535,
     "timeMonth": 642,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "CRL HTTP Port",
