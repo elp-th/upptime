@@ -1,7 +1,7 @@
 url: https://login.sso.thalesgroup.com/adfs/.well-known/openid-configuration
-status: down
-code: 500
-responseTime: 1119
-lastUpdated: 2024-05-31T15:00:23.985Z
+status: up
+code: 200
+responseTime: 447
+lastUpdated: 2024-05-31T15:40:33.312Z
 startTime: 2023-08-21T13:46:41.809Z
 generator: Upptime <https://github.com/upptime/upptime>
