@@ -13,6 +13,11 @@ sites:
     url: $SSO_URL
   - name: ADFS
     url: $ADFS_URL
+  - name: OneAccess HUB
+    url: $ONEACCESS_HUB_URL
+  - name: OneAccess U2A
+    url: $ONEACCESS_U2A_URL
+    
   - name: CRL HTTP Port
     check: "tcp-ping"
     url: $CRL_IP
