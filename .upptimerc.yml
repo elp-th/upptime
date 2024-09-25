@@ -4,30 +4,30 @@ repo: upptime # The name of this repository
 
 sites:
   - name: CRL v4
-    url: http://crl.pki.thalesgroup.com
+    url: $CRL_URL
   - name: Identity Provider
-    url: https://sso-idp.thalesgroup.com
+    url: $IDP_URL
     expectedStatusCodes:
       - 404
   - name: Single-Sign On
-    url: https://websso.online.thalesgroup.com/login/websso_login_unique.pl
+    url: $SSO_URL
   - name: ADFS
-    url: https://login.sso.thalesgroup.com/adfs/.well-known/openid-configuration
+    url: $ADFS_URL
   - name: CRL HTTP Port
     check: "tcp-ping"
-    url: 192.54.144.100
+    url: $CRL_IP
     port: 80
   - name: SSO HTTPS Port
     check: "tcp-ping"
-    url: 192.54.144.12
+    url: $SSO_IP
     port: 443
   - name: IdP HTTPS Port
     check: "tcp-ping"
-    url: 192.54.144.69
+    url: $IDP_IP
     port: 443
   - name: ADFS HTTPS Port
     check: "tcp-ping"
-    url: 192.54.144.68
+    url: $ADFS_IP
     port: 443
 
 
