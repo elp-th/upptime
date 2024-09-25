@@ -1,7 +1,7 @@
-url: 192.54.144.68
-status: up
-code: 200
-responseTime: 152
-lastUpdated: 2024-09-24T23:18:00.290Z
+url: $ADFS_IP
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-25T10:50:49.312Z
 startTime: 2023-08-21T13:46:45.781Z
 generator: Upptime <https://github.com/upptime/upptime>
