@@ -1,7 +1,7 @@
 url: $ADFS_URL
-status: down
-code: 500
-responseTime: 384
-lastUpdated: 2024-10-05T21:59:34.517Z
+status: up
+code: 200
+responseTime: 382
+lastUpdated: 2024-10-05T22:15:49.916Z
 startTime: 2023-08-21T13:46:41.809Z
 generator: Upptime <https://github.com/upptime/upptime>
