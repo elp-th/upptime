@@ -1,7 +1,7 @@
 url: $ONEACCESS_HUB_URL
-status: down
-code: 403
-responseTime: 292
-lastUpdated: 2024-11-25T23:19:17.988Z
+status: up
+code: 200
+responseTime: 542
+lastUpdated: 2024-11-26T15:43:44.034Z
 startTime: 2024-09-25T10:57:47.825Z
 generator: Upptime <https://github.com/upptime/upptime>
