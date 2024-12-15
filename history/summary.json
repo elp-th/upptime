@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 279,
-    "timeWeek": 222,
-    "timeMonth": 224,
+    "time": 367,
+    "timeDay": 211,
+    "timeWeek": 226,
+    "timeMonth": 223,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2024-06-08": 17
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.78%",
     "time": 1291,
-    "timeDay": 599,
-    "timeWeek": 392,
-    "timeMonth": 398,
+    "timeDay": 452,
+    "timeWeek": 408,
+    "timeMonth": 402,
     "timeYear": 1481,
     "dailyMinutesDown": {
       "2024-11-28": 20,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
-    "time": 571,
-    "timeDay": 568,
-    "timeWeek": 442,
+    "time": 570,
+    "timeDay": 373,
+    "timeWeek": 441,
     "timeMonth": 459,
-    "timeYear": 560,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2024-11-28": 20,
       "2024-06-08": 16,
@@ -86,10 +86,10 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.81%",
     "time": 566,
-    "timeDay": 580,
-    "timeWeek": 453,
+    "timeDay": 363,
+    "timeWeek": 450,
     "timeMonth": 444,
-    "timeYear": 556,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2024-12-05": 139,
       "2024-10-05": 16,
@@ -106,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "one-access-hub",
     "status": "up",
-    "uptime": "27.62%",
+    "uptime": "28.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.66%",
-    "uptimeYear": "27.62%",
-    "time": 425,
-    "timeDay": 476,
-    "timeWeek": 417,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "uptimeMonth": "76.96%",
+    "uptimeYear": "28.53%",
+    "time": 422,
+    "timeDay": 325,
+    "timeWeek": 401,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2024-11-26": 944,
       "2024-11-25": 870,
@@ -186,16 +186,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "one-access-u2-a",
     "status": "up",
-    "uptime": "27.81%",
+    "uptime": "28.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.14%",
-    "uptimeYear": "27.81%",
-    "time": 404,
-    "timeDay": 491,
-    "timeWeek": 390,
-    "timeMonth": 404,
-    "timeYear": 404,
+    "uptimeMonth": "77.44%",
+    "uptimeYear": "28.71%",
+    "time": 402,
+    "timeDay": 327,
+    "timeWeek": 389,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2024-11-26": 915,
       "2024-11-25": 870,
@@ -270,15 +270,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.72%",
     "time": 108,
-    "timeDay": 130,
-    "timeWeek": 98,
+    "timeDay": 81,
+    "timeWeek": 97,
     "timeMonth": 98,
     "timeYear": 107,
-    "dailyMinutesDown": {
-      "2023-12-16": 114
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SSO HTTPS Port",
@@ -290,15 +288,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.72%",
     "time": 108,
-    "timeDay": 131,
+    "timeDay": 80,
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 107,
-    "dailyMinutesDown": {
-      "2023-12-16": 114
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IdP HTTPS Port",
@@ -310,15 +306,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.72%",
     "time": 108,
-    "timeDay": 130,
+    "timeDay": 80,
     "timeWeek": 97,
     "timeMonth": 97,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2023-12-16": 114
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ADFS HTTPS Port",
@@ -330,15 +324,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.69%",
     "time": 108,
-    "timeDay": 130,
-    "timeWeek": 98,
+    "timeDay": 80,
+    "timeWeek": 97,
     "timeMonth": 97,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-12-05": 139,
-      "2023-12-16": 114
+      "2024-12-05": 139
     }
   }
 ]
