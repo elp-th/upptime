@@ -1,7 +1,7 @@
 url: $ADFS_IP
 status: up
 code: 200
-responseTime: 110
-lastUpdated: 2026-01-14T23:20:06.946Z
+responseTime: 86
+lastUpdated: 2026-01-15T23:24:06.548Z
 startTime: 2023-08-21T13:46:45.781Z
 generator: Upptime <https://github.com/upptime/upptime>
