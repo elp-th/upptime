@@ -27,11 +27,11 @@
     "url": "$IDP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "identity-provider",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "75.45%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "75.19%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "98.80%",
     "time": 438,
     "timeDay": 440,
@@ -50,7 +50,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 725,
-      "2026-06-28": 354
+      "2026-06-28": 358
     }
   },
   {
