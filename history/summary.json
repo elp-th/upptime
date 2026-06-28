@@ -29,10 +29,10 @@
     "slug": "identity-provider",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "86.15%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "79.75%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "98.81%",
     "time": 438,
     "timeDay": 515,
     "timeWeek": 421,
@@ -50,7 +50,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 725,
-      "2026-06-28": 200
+      "2026-06-28": 292
     }
   },
   {
@@ -58,9 +58,9 @@
     "url": "$SSO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "single-sign-on",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "70.46%",
+    "uptimeDay": "70.44%",
     "uptimeWeek": "95.78%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.87%",
