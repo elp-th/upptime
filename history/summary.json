@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "identity-provider",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "15.97%",
-    "uptimeWeek": "86.02%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "98.60%",
+    "uptime": "99.50%",
+    "uptimeDay": "4.62%",
+    "uptimeWeek": "83.87%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "98.56%",
     "time": 438,
     "timeDay": 289,
     "timeWeek": 395,
@@ -51,7 +51,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 725,
       "2026-06-28": 724,
-      "2026-06-29": 686
+      "2026-06-29": 903
     }
   },
   {
@@ -60,13 +60,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "single-sign-on",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "59.47%",
-    "uptimeWeek": "90.37%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.86%",
+    "uptimeDay": "47.05%",
+    "uptimeWeek": "88.22%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "99.72%",
     "time": 583,
-    "timeDay": 2771,
+    "timeDay": 3353,
     "timeWeek": 1519,
     "timeMonth": 832,
     "timeYear": 553,
@@ -78,7 +78,7 @@
       "2025-08-29": 31,
       "2025-11-12": 154,
       "2026-06-28": 685,
-      "2026-06-29": 285
+      "2026-06-29": 503
     }
   },
   {
@@ -176,19 +176,20 @@
     "url": "$SSO_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sso-https-port",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 109,
     "timeDay": 105,
     "timeWeek": 102,
     "timeMonth": 108,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-07-14": 23
+      "2025-07-14": 23,
+      "2026-06-29": 5
     }
   },
   {
@@ -196,9 +197,9 @@
     "url": "$IDP_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id-p-https-port",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -208,7 +209,8 @@
     "timeMonth": 108,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-07-14": 21
+      "2025-07-14": 21,
+      "2026-06-29": 0
     }
   },
   {
