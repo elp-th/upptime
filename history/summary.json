@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "identity-provider",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "43.29%",
-    "uptimeWeek": "91.90%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "98.71%",
+    "uptime": "99.52%",
+    "uptimeDay": "34.71%",
+    "uptimeWeek": "90.67%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "98.69%",
     "time": 438,
     "timeDay": 373,
     "timeWeek": 395,
@@ -51,7 +51,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 725,
       "2026-06-28": 724,
-      "2026-06-29": 94
+      "2026-06-29": 217
     }
   },
   {
@@ -60,11 +60,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "single-sign-on",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "52.39%",
-    "uptimeWeek": "93.20%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.89%",
+    "uptimeDay": "43.81%",
+    "uptimeWeek": "91.97%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "99.79%",
     "time": 583,
     "timeDay": 3326,
     "timeWeek": 1616,
@@ -78,7 +78,7 @@
       "2025-08-29": 31,
       "2025-11-12": 154,
       "2026-06-28": 685,
-      "2026-06-29": 0
+      "2026-06-29": 124
     }
   },
   {
@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "one-access-u2-a",
     "status": "up",
-    "uptime": "91.01%",
+    "uptime": "91.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
