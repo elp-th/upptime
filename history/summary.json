@@ -29,10 +29,10 @@
     "slug": "identity-provider",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "34.71%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "29.38%",
+    "uptimeWeek": "89.07%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "98.66%",
     "time": 438,
     "timeDay": 373,
     "timeWeek": 395,
@@ -51,7 +51,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 725,
       "2026-06-28": 724,
-      "2026-06-29": 217
+      "2026-06-29": 379
     }
   },
   {
@@ -59,16 +59,16 @@
     "url": "$SSO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "single-sign-on",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "43.81%",
-    "uptimeWeek": "91.97%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.79%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "38.16%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "99.76%",
     "time": 583,
-    "timeDay": 3326,
-    "timeWeek": 1616,
-    "timeMonth": 840,
+    "timeDay": 2771,
+    "timeWeek": 1519,
+    "timeMonth": 832,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2025-07-05": 17,
@@ -78,7 +78,7 @@
       "2025-08-29": 31,
       "2025-11-12": 154,
       "2026-06-28": 685,
-      "2026-06-29": 124
+      "2026-06-29": 285
     }
   },
   {
