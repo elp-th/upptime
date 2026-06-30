@@ -1,7 +1,7 @@
 url: $SSO_URL
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-29T20:58:36.159Z
+code: 503
+responseTime: 533
+lastUpdated: 2026-06-30T00:07:28.095Z
 startTime: 2023-08-21T13:46:40.709Z
 generator: Upptime <https://github.com/upptime/upptime>
